@@ -1,0 +1,21 @@
+package dk.rosenheim.minecraft;
+
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import dk.rosenheim.minecraft.item.ModItems;
+
+public class CommonProxy {
+
+    public void preInit(FMLPreInitializationEvent e) {
+    	ModItems.Init();
+    }
+
+    public void init(FMLInitializationEvent e) {
+    	
+    }
+
+    public void postInit(FMLPostInitializationEvent e) {
+    	
+    }
+}

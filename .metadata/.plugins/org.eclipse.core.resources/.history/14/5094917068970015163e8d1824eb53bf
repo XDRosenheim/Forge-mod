@@ -1,0 +1,19 @@
+package dk.rosenheim.minecraft.item;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+import dk.rosenheim.minecraft.Main;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class ModItems {
+	
+	public static Item tutorialItem;
+	
+	public static final void Init() {
+		tutorialItem = new Item()
+				.setUnlocalizedName("tutorialItem")
+				.setCreativeTab(CreativeTabs.tabMisc)
+				.setTextureName(Main.MODID + ":tutorialItem");
+        GameRegistry.registerItem(tutorialItem, "tutorialItem");
+	}
+}

@@ -1,0 +1,12 @@
+package dk.rosenheim.minecraft.item;
+
+import net.minecraft.item.Item;
+
+public class ModItems {
+	
+	public static Item tutorialItem;
+	
+	public static final void Init() {
+		
+	}
+}
