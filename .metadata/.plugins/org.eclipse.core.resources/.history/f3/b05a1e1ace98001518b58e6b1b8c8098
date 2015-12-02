@@ -1,0 +1,13 @@
+package dk.rosenheim.minecraft.block;
+
+import dk.rosenheim.minecraft.Main;
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class MultitextureBlock extends Block{
+	protected MultitextureBlock(String unlocalizedName, Material material) {
+		super(material);
+		this.setBlockName(unlocalizedName)
+		this.setBlockTextureName(Main.MODID + ":" + unlocalizedName);
+	}
+}

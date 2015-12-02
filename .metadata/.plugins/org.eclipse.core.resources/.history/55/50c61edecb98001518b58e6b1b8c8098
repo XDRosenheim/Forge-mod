@@ -1,0 +1,15 @@
+package dk.rosenheim.minecraft.crafting;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+import dk.rosenheim.minecraft.block.ModBlocks;
+import dk.rosenheim.minecraft.item.ModItems;
+
+import net.minecraft.item.ItemStack;
+
+public final class ModCrafting {
+	public static void init(){
+		GameRegistry.addRecipe(new ItemStack(ModBlocks.tutorialBlock), "##", "##", '#', ModItems.tutorialItem);
+
+	}
+}

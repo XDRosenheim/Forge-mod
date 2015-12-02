@@ -1,0 +1,8 @@
+package dk.rosenheim.minecraft.crafting;
+
+public final class ModCrafting {
+	public static void init(){
+		GameRegistry.addRecipe(new ItemStack(ModBlocks.tutorialBlock), "##", "##", '#', ModItems.tutorialItem);
+
+	}
+}

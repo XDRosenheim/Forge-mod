@@ -1,0 +1,8 @@
+item.tutorialItem.name=Tutorial Item
+tile.tutorialBlock.name=Tutorial Block
+tile.metablock_0.name=Metablock 0 (White)
+tile.metablock_1.name=Metablock 1 (Black)
+tile.metablock_2.name=Metablock 2 (Red)
+tile.metablock_3.name=Metablock 3 (Green)
+tile.metablock_4.name=Metablock 4 (Yellow)
+tile.metablock_5.name=Metablock 5 (Blue)

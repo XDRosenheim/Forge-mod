@@ -1,0 +1,18 @@
+[11:59:46] [main/INFO]: Logging in with username & password
+[11:59:51] [main/INFO]: Setting user: XDRosenheim
+[11:59:52] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:59:54] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[12:00:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[12:00:03] [Sound Library Loader/INFO]: Sound engine started
+[12:00:04] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:00:04] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:00:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[12:00:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:00:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:00:06] [Sound Library Loader/INFO]: Sound engine started
+[12:00:11] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:00:11] [Server thread/INFO]: Generating keypair
+[12:00:11] [Server thread/INFO]: Preparing start region for level 0
+[12:00:12] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:00:13] [Server thread/INFO]: XDRosenheim[local:E:378ef0de] logged in with entity id 27 at (-859.30207768404, 1.0, 59.177240336844186)
+[12:00:13] [Server thread/INFO]: XDRosenheim joined the game

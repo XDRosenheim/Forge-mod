@@ -1,0 +1,7 @@
+package dk.rosenheim.minecraft.block;
+
+import dk.rosenheim.minecraft.Main;
+
+public class MultitextureBlock {
+
+}

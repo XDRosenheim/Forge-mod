@@ -1,0 +1,128 @@
+[08:40:40] [main/INFO]: Logging in with username & password
+[08:40:45] [main/INFO]: Setting user: XDRosenheim
+[08:40:46] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:40:49] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[08:40:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[08:40:57] [Sound Library Loader/INFO]: Sound engine started
+[08:40:58] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[08:40:58] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[08:40:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[08:40:59] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:40:59] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:41:00] [Sound Library Loader/INFO]: Sound engine started
+[08:41:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[08:41:20] [Server thread/INFO]: Generating keypair
+[08:41:20] [Server thread/INFO]: Preparing start region for level 0
+[08:41:21] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:41:22] [Server thread/INFO]: XDRosenheim[local:E:02da78f5] logged in with entity id 27 at (-852.2962121039697, 1.0, 64.94008291878094)
+[08:41:22] [Server thread/INFO]: XDRosenheim joined the game
+[08:41:52] [Server thread/INFO]: Saving and pausing game...
+[08:41:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:41:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:41:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:41:54] [Server thread/INFO]: Stopping server
+[08:41:54] [Server thread/INFO]: Saving players
+[08:41:54] [Server thread/INFO]: Saving worlds
+[08:41:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:41:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:41:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:43:25] [Client thread/INFO]: Stopping!
+name & password
+[08:43:12] [main/INFO]: Setting user: XDRosenheim
+[08:43:14] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:43:16] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[08:43:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[08:43:27] [Sound Library Loader/INFO]: Sound engine started
+[08:43:28] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[08:43:28] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[08:43:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[08:43:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:43:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:43:30] [Sound Library Loader/INFO]: Sound engine started
+[08:43:34] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[08:43:34] [Server thread/INFO]: Generating keypair
+[08:43:35] [Server thread/INFO]: Preparing start region for level 0
+[08:43:36] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:43:36] [Server thread/INFO]: XDRosenheim[local:E:c45574ea] logged in with entity id 27 at (-854.8819469750346, 1.0, 64.3178660177162)
+[08:43:36] [Server thread/INFO]: XDRosenheim joined the game
+[08:44:05] [Server thread/INFO]: Saving and pausing game...
+[08:44:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:44:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:44:05] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:44:07] [Server thread/INFO]: Stopping server
+[08:44:07] [Server thread/INFO]: Saving players
+[08:44:07] [Server thread/INFO]: Saving worlds
+[08:44:07] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:44:07] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:44:07] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:50:15] [main/INFO]: Logging in with username & password
+[08:50:20] [main/INFO]: Setting user: XDRosenheim
+[08:50:22] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:50:23] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[08:50:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[08:50:34] [Sound Library Loader/INFO]: Sound engine started
+[08:50:35] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[08:50:35] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[08:50:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[08:50:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:50:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:50:38] [Sound Library Loader/INFO]: Sound engine started
+[08:50:45] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[08:50:45] [Server thread/INFO]: Generating keypair
+[08:50:46] [Server thread/INFO]: Preparing start region for level 0
+[08:50:47] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:50:48] [Server thread/INFO]: XDRosenheim[local:E:f2d4d664] logged in with entity id 27 at (-853.6352597264132, 1.0, 63.97572191826455)
+[08:50:48] [Server thread/INFO]: XDRosenheim joined the game
+[08:50:48] [Server thread/INFO]: Saving and pausing game...
+[08:50:48] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:50:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:50:49] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:51:06] [Server thread/INFO]: [XDRosenheim: Set own game mode to Survival Mode]
+[08:51:06] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:51:22] [Server thread/INFO]: Saving and pausing game...
+[08:51:22] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:51:22] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:51:22] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:51:23] [Server thread/INFO]: Stopping server
+[08:51:23] [Server thread/INFO]: Saving players
+[08:51:23] [Server thread/INFO]: Saving worlds
+[08:51:23] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:51:23] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:51:23] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:51:25] [Client thread/INFO]: Stopping!
+[08:55:39] [main/INFO]: Logging in with username & password
+[08:55:44] [main/INFO]: Setting user: XDRosenheim
+[08:55:46] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:55:47] [Twitch authenticator/ERROR]: Given twitch access token is invalid
+[08:55:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[08:55:58] [Sound Library Loader/INFO]: Sound engine started
+[08:55:59] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[08:55:59] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[08:56:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Tutorial Mod
+[08:56:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[08:56:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[08:56:02] [Sound Library Loader/INFO]: Sound engine started
+[08:56:12] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[08:56:12] [Server thread/INFO]: Generating keypair
+[08:56:13] [Server thread/INFO]: Preparing start region for level 0
+[08:56:14] [Server thread/INFO]: Changing view distance to 12, from 10
+[08:56:14] [Server thread/INFO]: XDRosenheim[local:E:0c11ddac] logged in with entity id 27 at (-853.5835397097773, 1.0, 60.099540648242666)
+[08:56:15] [Server thread/INFO]: XDRosenheim joined the game
+[08:56:23] [Server thread/INFO]: [XDRosenheim: Set own game mode to Creative Mode]
+[08:56:23] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:56:36] [Server thread/INFO]: [XDRosenheim: Set own game mode to Survival Mode]
+[08:56:36] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:56:46] [Server thread/INFO]: [XDRosenheim: Set own game mode to Creative Mode]
+[08:56:46] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:57:41] [Server thread/INFO]: [XDRosenheim: Set own game mode to Survival Mode]
+[08:57:41] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[08:57:49] [Server thread/INFO]: Saving and pausing game...
+[08:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:57:49] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[08:57:50] [Server thread/INFO]: Stopping server
+[08:57:50] [Server thread/INFO]: Saving players
+[08:57:50] [Server thread/INFO]: Saving worlds
+[08:57:50] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[08:57:50] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[08:57:50] [Server thread/INFO]: Saving chunks for level 'New World'/The End

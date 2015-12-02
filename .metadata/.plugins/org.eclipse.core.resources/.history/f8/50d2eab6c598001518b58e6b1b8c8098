@@ -1,0 +1,22 @@
+package dk.rosenheim.minecraft.block;
+
+import dk.rosenheim.minecraft.Main;
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+
+public class BasicBlock extends Block{
+
+	protected BasicBlock(String unlockalizedName, Material material, float hardness) {
+		super(material);
+		this.setBlockName(unlockalizedName);
+		this.setBlockTextureName(Main.MODID + ":" + unlockalizedName);
+		this.setCreativeTab(CreativeTabs.tabBlock);
+		this.setHardness(hardness);
+		this.setResistance(6.0F);
+		this.setLightLevel(1.0F);
+		this.setHarvestLevel("Pickaxe", 3);
+		this.setStepSound(soundTypeMetal);
+	}
+	
+}

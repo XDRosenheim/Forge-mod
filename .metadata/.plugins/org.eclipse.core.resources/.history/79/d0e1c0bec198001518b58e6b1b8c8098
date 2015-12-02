@@ -1,0 +1,5 @@
+package dk.rosenheim.minecraft.block;
+
+public class BasicBlock {
+
+}
